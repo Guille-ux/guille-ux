@@ -1,4 +1,14 @@
 ## Hi there 👋
+Hello, my name is Guille and i know
+
+- C
+- JavaScript
+- Python
+- Assembly (Nasm)
+- HTML
+- CSS
+  
+
 
 <!--
 **Guille-ux/guille-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
