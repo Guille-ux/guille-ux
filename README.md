@@ -7,7 +7,16 @@ Hello, my name is Guille and i know
 - Assembly (Nasm)
 - HTML
 - CSS
-  
+
+### Actual Work
+- LLM (from scratch, the neural networks too)
+- MunixOs (My operating system, i need to free the kernel, and only the kernel)
+- SwelshinianoServer (Oh, you can't see this repository because it has the TOKEN)
+- on my webpage
+- An Processor Architecture, but an easy to undertand architecture (i'm making this on logisim, you can't view that but i'm working on that)
+- Making a better programming language that runs on my kernel and anyone thing that could run a program.
+- Thinking on my own Internet Protocol to servers and that
+- Trying to undertand WebBrowsers and trying to make one
 
 
 <!--
