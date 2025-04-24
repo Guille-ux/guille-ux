@@ -18,6 +18,15 @@ Hello, my name is Guille and i know
 - Thinking on my own Internet Protocol to servers and that
 - Trying to undertand WebBrowsers and trying to make one
 
+### Repositories 
+(my favourite repositories)
+- **tinrux**
+- **Munix**
+- **ZynkVM**
+- **ZynkPy**
+- **ZynkLite**
+- **RogueFish**
+- **ux-framework**
 
 <!--
 **Guille-ux/guille-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
