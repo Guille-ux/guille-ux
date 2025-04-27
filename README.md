@@ -29,6 +29,9 @@ Hello, my name is Guille and i know
 - **ux-framework**
 - **sysarena**
 
+![Bomb](Bomba.png)
+*doing something*
+
 <!--
 **Guille-ux/guille-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
