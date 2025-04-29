@@ -30,6 +30,7 @@ Hello, my name is Guille and i know
 - **sysarena**
 
 ![Bomb](Bomba.png)
+![Cone](Cono.png)
 *doing something*
 
 <!--
