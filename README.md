@@ -1,12 +1,5 @@
 ## Hi there 👋
-Hello, my name is Guille and i know
-
-- C
-- JavaScript
-- Python
-- Assembly (Nasm)
-- HTML
-- CSS
+Hello, my name is Guille
 
 ### Actual Work
 - LLM (from scratch, the neural networks too)
